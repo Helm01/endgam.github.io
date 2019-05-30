@@ -1,0 +1,9 @@
+header {
+    background-image: url(../img/slider-bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+    height: 615px;
+    width: 100%;
+    border-bottom: 3px solid #b01ba5;
+}
